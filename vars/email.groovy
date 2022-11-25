@@ -1,4 +1,4 @@
-def call(BUILD_URL,JOB_NAME,BUILD_NUMBER,BUILD_STATUS)
+def call()
 {
   post {
         always {
