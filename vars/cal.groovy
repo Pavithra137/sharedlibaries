@@ -1,4 +1,4 @@
-def add(a,b)
+def call(a,b)
 {
   echo "${a} * ${b} is ${a*b}"
 }
