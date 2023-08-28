@@ -1,9 +1,9 @@
-#!/usr/bin/env groovy
+// #!/usr/bin/env groovy
 def call(a,b)
 {
   echo "${a} * ${b} is ${a*b}"
 }
-def wait(a,b)
+def (a,b)
 {
   echo "${a} - ${b} is ${a-b}"
 }
