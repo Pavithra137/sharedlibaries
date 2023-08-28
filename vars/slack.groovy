@@ -5,5 +5,8 @@
 // }
 
 def call() {
- bat 'dir'
+ bat '''
+ dir
+ dir C:\Users\pavithra.raj\.jenkins\
+ '''
 }
