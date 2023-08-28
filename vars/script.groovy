@@ -1,5 +1,5 @@
 def call() {
-  echo "Hello"
-  echo "Welcome" > new.txt
-  cat new.txt
+  steps.echo "Hello"
+  steps.echo "Welcome" > new.txt
+  steps.cat new.txt
 }
