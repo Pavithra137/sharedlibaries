@@ -7,6 +7,6 @@
 def call() {
  bat '''
  dir
- dir "C:\Users\pavithra.raj\.jenkins\"
+ dir "C:\\Users\\pavithra.raj\\.jenkins\\"
  '''
 }
