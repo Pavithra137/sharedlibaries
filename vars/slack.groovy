@@ -5,11 +5,5 @@
 // }
 
 def call() {
- sh """
- ls
- mkdir new
- cd new
- echo "hello" > 1.txt
- cat 1.txt
- """
+ bat 'dir'
 }
