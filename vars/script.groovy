@@ -1,6 +1,8 @@
 def call() {
-  sh"""
-    #!/bin/bash
-    . ./scripts/demo.sh
-  """
+ sh """
+ ls
+ mkdir new
+ echo "hello" > 1.txt
+ cat 1.txt
+ """
 }
