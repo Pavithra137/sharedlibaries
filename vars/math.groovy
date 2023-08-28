@@ -3,7 +3,7 @@ def call(a,b)
 {
   echo "${a} * ${b} is ${a*b}"
 }
-def test(a,b)
+def test(c,d)
 {
-  echo "${a} - ${b} is ${a-b}"
+  echo "${c} - ${d} is ${c-d}"
 }
