@@ -3,7 +3,7 @@ def call(a,b)
 {
   echo "${a} * ${b} is ${a*b}"
 }
-def ab(a,b)
+def wait(a,b)
 {
   echo "${a} - ${b} is ${a-b}"
 }
