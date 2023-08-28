@@ -1,3 +1,0 @@
-ls
-mkdir folder
-ls
